@@ -10,7 +10,7 @@ import queue
 class ProxyLauncher(TkinterDnD.Tk):
     def __init__(self):
         super().__init__()
-        self.title("代理启动器 v3")
+        self.title("代理启动器")
         self.geometry("500x300")
         self.log_queue = queue.Queue()
 
