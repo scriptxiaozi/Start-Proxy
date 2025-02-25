@@ -1,4 +1,11 @@
-# proxy_launcher_optimized.py
+# -*- coding: utf-8 -*-
+"""
+"""
+__title__ = 'Start-Proxy'
+__author__ = 'xiaozi'
+__license__ = 'MIT'
+__copyright__ = 'Copyright 2025, xiaozi'
+
 import os
 import subprocess
 import tkinter as tk
